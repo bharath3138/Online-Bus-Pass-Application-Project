@@ -1,3 +1,6 @@
+
+
+- **Help and Support**: A support center for user inquiries and issue resolution.
 # Online Bus Pass Application System
 
 The Online Bus Pass Application System is a web-based platform designed to streamline the process of applying for and managing bus passes. This system provides an efficient and user-friendly way for passengers to access and renew their bus passes, while also assisting transport authorities in managing applications.
@@ -13,9 +16,6 @@ The Online Bus Pass Application System is a web-based platform designed to strea
 - **Application Processing**: Administrative dashboards for staff to review and approve applications.
 
 - **Pass Renewal**: Convenient pass renewal options and reminders.
-
-- **Help and Support**: A support center for user inquiries and issue resolution.
-
 - **Reporting and Analytics**: Generate reports for application statistics and route optimization.
 
 # # Installation
